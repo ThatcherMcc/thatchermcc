@@ -14,14 +14,6 @@
 </a>
 
 <!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-
-<!--
      My mission, because I'm a superhero!
 -->
 
@@ -41,6 +33,8 @@ I’m driven by a love for bringing ideas to life. I’ve always found my place 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=git,react,nextjs)](https://skillicons.dev)
 
+### Languanges I'm trying to learn
+![China](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/cn.png "China")
 <!--
      Fast links to my socials!
 -->
