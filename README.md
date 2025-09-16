@@ -58,7 +58,8 @@ I’m driven by a love for bringing ideas to life. I’ve always found my place 
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/12OcivFK13ytssjSZcar-q_-P92wSYWvV/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/12OcivFK13ytssjSZcar-q_-P92wSYWvV/view?usp=sharing"
+> download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=819067&height=120&section=footer" alt="footer"/>
 
