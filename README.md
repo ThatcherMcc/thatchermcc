@@ -18,10 +18,10 @@
 -->
 
 ### My Mission:
-I’m driven by a love for bringing ideas to life. I’ve always found my place in creating solutions that connect and uplift people. My missions is to build connections, empower others to create, and find impactful solutions that tackle real-world challenges, making a meaningful difference.
+I’m driven by a love for bringing ideas to life. I’ve always found my place in creating solutions that connect and uplift people. My mission is to build connections, empower others to create, and find impactful solutions that tackle real-world challenges, making a meaningful difference.
 
 ### Defining Quote
-"The desire to create is one of the deepest yearnings of the human soul." – Dieter F. Uchtdorf
+"Climb the mountain so you can see the view, not so others can see you on the mountain."
 
 <!--
      This is the list of my skills and tools I am studying!
