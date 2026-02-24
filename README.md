@@ -33,7 +33,7 @@ I’m driven by a love for bringing ideas to life. I’ve always found my place 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=git,react,nextjs)](https://skillicons.dev)
 
-### Languanges I'm learning
+### Languages I'm learning
 ![China](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/cn.png "China")
 <!--
      Fast links to my socials!
